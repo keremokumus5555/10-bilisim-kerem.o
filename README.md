@@ -1,0 +1,1 @@
+# 10-bilisim-kerem.o
